@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'Dali';
+  src: url("http://localhost:2368/assets/css/fonts/dali.ttf") format("truetype"); }
+.wrapper {
+  overflow: hidden;
+  margin: auto; }
+  @media (min-width: 500px) {
+    .wrapper {
+      width: 100%;
+      position: relative;
+      top: 5vh;
+      height: 90vh; } }
+
+.hidden {
+  display: none; }
+
+header {
+  margin: 0; }
+
+body, html {
+  margin: 0;
+  padding: 0; }
+
+.link, .about-link {
+  width: 50%;
+  height: 5vh;
+  display: inline-block;
+  float: right;
+  background-color: red; }
+  @media (min-width: 500px) {
+    .link, .about-link {
+      width: 33.33333%; } }
+  @media (min-width: 900px) {
+    .link, .about-link {
+      width: 5%;
+      height: 100vh; } }
+
+.about-link {
+  width: 100%;
+  float: left;
+  color: white;
+  background-color: black; }
+  @media (min-width: 500px) {
+    .about-link {
+      width: 33.33333%; } }
+  @media (min-width: 900px) {
+    .about-link {
+      width: 5%;
+      height: 100vh; } }
+
+.ajax-container {
+  width: 100%;
+  border: 1px solid blue;
+  position: absolute; }
+  @media (min-width: 500px) {
+    .ajax-container {
+      top: 10vh;
+      overflow: hidden;
+      height: 70vh; } }
+  @media (min-width: 900px) {
+    .ajax-container {
+      left: 5%;
+      top: 5vh;
+      width: 85%;
+      height: 90vh; } }
+
+.post-list {
+  list-style: none; }
+
+@media (min-width: 500px) {
+  .container {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    padding-right: 15px; } }
+
+.post-header {
+  border-bottom: 6px solid black;
+  padding: 0 15px 80px;
+  text-align: center; }
+
+.post-title,
+.page-title {
+  font-size: 52px;
+  font-weight: 700;
+  margin: 15px 0;
+  text-transform: uppercase; }
+
+.page-title {
+  margin: 15px 40px; }
+
+.post-date,
+.blog-description {
+  color: #AEADAD;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1;
+  margin: 25px 0 0; }
+  .post-date a,
+  .blog-description a {
+    color: #AEADAD; }
+  .post-date a:hover,
+  .blog-description a:hover {
+    color: green; }
+  .post-date:after,
+  .blog-description:after {
+    border-bottom: 1px dotted pink;
+    content: "";
+    display: block;
+    margin: 40px auto 0;
+    width: 100px; }
+
+.post-content a:hover {
+  border-bottom: 1px dotted green;
+  padding: 0 0 2px; }
+.post-content:last-child {
+  margin-bottom: 0; }
+
+.post-footer {
+  margin-top: 5px; }
+
+.post-tags,
+.share {
+  color: #AEADAD;
+  font-size: 14px; }
+  .post-tags span,
+  .share span {
+    font-weight: 600; }
+
+.post-tags {
+  float: left;
+  margin: 3px 0 0; }
+  .post-tags a:hover {
+    color: pink; }
+
+.share {
+  float: right; }
+  .share a {
+    background: green;
+    color: #FFF;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 5px;
+    padding: 5px 0 4px;
+    width: 30px;
+    text-align: center; }
+  .share a:hover {
+    background: pink; }
+
+.post-navigation {
+  display: table;
+  margin: 70px auto 100px; }
+
+/*# sourceMappingURL=style.css.map */

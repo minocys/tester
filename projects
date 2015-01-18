@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>project test</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css?v=3f43e9ec6c" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+
+    <link rel="canonical" href="projects" />
+    
+    <meta property="og:site_name" content="Mi No Tech" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="project test" />
+    <meta property="og:description" content="..." />
+    <meta property="og:url" content="http://localhost:2368/projects/" />
+    <meta property="article:published_time" content="2015-01-05T04:02:09.435Z" />
+    <meta property="article:modified_time" content="2015-01-05T04:02:09.435Z" />
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="project test" />
+    <meta name="twitter:description" content="..." />
+    <meta name="twitter:url" content="http://localhost:2368/projects/" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "Mi No Tech",
+    "author": {
+        "@type": "Person",
+        "name": "Ryan Leung",
+        "url": "http://localhost:2368/author/ryan",
+        "sameAs": null
+    },
+    "headline": "project test",
+    "url": "http://localhost:2368/projects/",
+    "datePublished": "2015-01-05T04:02:09.435Z",
+    "dateModified": "2015-01-05T04:02:09.435Z",
+    "description": "..."
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.5" />
+    <link rel="alternate" type="application/rss+xml" title="Mi No Tech" href="rss/index.html" />
+  </head>
+
+  <body class="">
+    <div class="wrapper">
+      <header>
+        <div class="about-link">
+          <a class="page-load-link" href="index.html">About Me</a>
+        </div>
+        <div class="link">
+          <a class="page-load-link" href="http://localhost:2368/index">Blog</a>
+        </div>
+        <div class="link">
+          <a class="page-load-link" href="projects">Projects</a>
+        </div>
+      </header>
+    </div>
+      <div class="ajax-container">
+        
+<div class="container">
+ <article class="post page">
+
+        <header class="post-header">
+            <h1 class="post-title">project test</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2015-01-04">04 January 2015</time> 
+            </section>
+        </header>
+
+        <section class="post-content">
+            
+        </section>
+
+        <footer class="post-footer">
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/share?text=project%20test&amp;url=http://localhost:2368/projects/"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/projects/"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/projects/"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+        </footer>
+
+    </article></div>
+      </div>
+
+
+
+    <script src="public/jquery.js?v=3f43e9ec6c"></script>
+
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=3f43e9ec6c"></script>
+    <script type="text/javascript" src="assets/js/jquery.history.js?v=3f43e9ec6c"></script>
+    <script type="text/javascript" src="assets/js/loadingscript.js?v=3f43e9ec6c"></script>
+
+  </body>
+</html>
